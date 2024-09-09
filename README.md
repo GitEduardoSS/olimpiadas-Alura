@@ -1,6 +1,6 @@
 ## **README.md**
 
-### **Projeto: Busca de Atletas**
+### **Projeto: Busca de Atletas - Construído na Imersão Dev da Alura com Google Gemini**
 
 **Descrição:**
 Este projeto web permite pesquisar por atletas ou esportes em uma base de dados. Ao digitar um termo no campo de pesquisa e clicar no botão, a aplicação busca por correspondências nos títulos, descrições e tags dos dados e exibe os resultados relevantes.
