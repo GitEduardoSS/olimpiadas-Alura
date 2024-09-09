@@ -11,7 +11,7 @@ Este projeto web permite pesquisar por atletas ou esportes em uma base de dados.
 * **JavaScript:** Lógica da aplicação, incluindo a função de pesquisa.
 
 **Estrutura de Arquivos:**
-* `index.html`: Arquivo principal da página.
+* `Index.html`: Arquivo principal da página.
 * `style.css`: Arquivo de estilos CSS.
 * `app.js`: Arquivo JavaScript com a lógica da aplicação.
 * `dados.js`: Arquivo JavaScript contendo os dados dos atletas e esportes.
